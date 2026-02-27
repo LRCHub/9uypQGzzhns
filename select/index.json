@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "TT",
+  "base_artist": "TWICE",
+  "createdAt": "2026-02-27T13:25:01.140940Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Qué Bonito Es Santa Fe (with Rocío Dúrcal) (TT Club Version)",
+      "artist": "Juan Gabriel",
+      "has_synced": true,
+      "path": "select/01_Qué_Bonito_Es_Santa_Fe_(with_Rocío_Dúrcal)_(TT_Club_Version)_Juan_Gabriel.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Qué Bonito Es Santa Fe (TT Club Version)",
+      "artist": "Juan Gabriel",
+      "has_synced": true,
+      "path": "select/02_Qué_Bonito_Es_Santa_Fe_(TT_Club_Version)_Juan_Gabriel.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "TT",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/03_TT_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "TT (inst.)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/04_TT_(inst.)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "TT (Japanese Ver.)",
+      "artist": "Twice",
+      "has_synced": true,
+      "path": "select/05_TT_(Japanese_Ver.)_Twice.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "TT Freak",
+      "artist": "Akon feat. John Mamann & Dawty Music",
+      "has_synced": true,
+      "path": "select/06_TT_Freak_Akon_feat._John_Mamann_&_Dawty_Music.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "TT Freak",
+      "artist": "Akon",
+      "has_synced": true,
+      "path": "select/07_TT_Freak_Akon.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "TT",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/08_TT_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tt-33",
+      "artist": "Vojko V",
+      "has_synced": true,
+      "path": "select/09_Tt-33_Vojko_V.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "TT",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/10_TT_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "TT",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/11_TT_TWICE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TT",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/pl_01_TT_TWICE.txt"
+    }
+  ]
+}
